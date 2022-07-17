@@ -1,11 +1,21 @@
+.video-preview
+{
+    display: inline-block;
+}
+
 .thumbnail
 {
     width: 300px;
-    /* height: 300px;
-    object-fit: contain;
-    object-position: ;
-    border-width: 2px;
-    border-style: solid;
-    border-color: red; */
+    border-radius: 2px;
+}
 
+.search-bar
+{
+    margin-bottom: 10px;
+    display: block;
+    border: none;
+    border-radius: 3px;
+    box-shadow: 0.5px 0.5px 1px black;
+    padding: 5px;
+    padding-right: 100px;
 }
