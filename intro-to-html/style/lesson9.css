@@ -1,0 +1,100 @@
+.questioner
+{
+    margin: 20px;
+    border: none;
+    border-radius: 2px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+    display: inline-block;
+    box-shadow: 0.5px 0.5px 4px black;
+}
+.youtube
+{
+    margin: 20px;
+    border: none;
+    border-radius: 2px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+    display: inline-block;
+    box-shadow: 0.5px 0.5px 4px black;
+    background-color: rgb(44, 41, 41);
+}
+p
+{
+    font-family: Arial;
+    
+}
+.content-yt
+{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+.desc-yt
+{
+    color: rgb(129, 125, 125);
+    width: 360px;
+}
+
+.socmed
+{
+    margin-left: 20px;
+    border: none;
+    border-radius: 3px;
+    box-shadow: 0.5px 0.5px 5px rgb(126, 123, 123);
+    display: inline-block;
+}
+
+.profile-pic
+{
+   
+    width: 170px;
+    height: 180px;
+    object-fit: cover;
+    object-position: center;
+    padding-bottom: 0px;
+    cursor: pointer;
+
+}
+.username
+{
+    margin-top: 3px;
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+.friends
+{
+    margin-top: 5px;
+    padding-left: 10px;
+    color: rgb(161, 160, 158);
+    cursor: pointer;
+}
+
+.add-friend
+{
+    background-color: rgb(68, 100, 241);
+    margin-left: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 9px;
+    padding-right: 9px;
+    margin-bottom: 7px;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    font-family: arial;
+    font-weight: bold;
+    box-shadow: 1px 1px 8px rgb(168, 166, 166);
+    cursor: pointer;
+}
+.add-friend:active
+{
+    opacity: 80%;
+}

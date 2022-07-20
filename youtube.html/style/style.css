@@ -3,6 +3,7 @@
     font-family: arial;
     display: inline-block;
     margin-right: 10px;
+    vertical-align: top;
 }
 
 .thumbnail
