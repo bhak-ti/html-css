@@ -3,7 +3,7 @@
     padding-top: 5px;
     padding-left: 10px;
     padding-bottom: 5px;
-    width: 500px;
+    width: 330px;
     display: block;
     margin-left: 20px;
     margin-top: 5px;
@@ -58,9 +58,12 @@ p
 {
     display: inline-block;
     vertical-align: middle;
+    margin-right: 0;
+    
 }
 .btn-follow
 {
+    cursor: pointer;
     border: none;
     padding-left: 15px;
     padding-right: 15px;
@@ -72,4 +75,8 @@ p
     width: 100%;
     font-family: Helvetica;
     font-weight: 600;
+}
+.btn-follow:active
+{
+    opacity: 80%;
 }
