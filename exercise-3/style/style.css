@@ -1,0 +1,187 @@
+p 
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+.amazon-link
+{
+    color: rgb(0, 113, 133);
+}
+.amazon-link:hover
+{
+    color: red;
+}
+.title 
+{
+    font-size: 20px;
+    font-weight: bold;
+}
+.price
+{
+    color: rgb(0, 118, 0);
+}
+.addCart
+{
+    padding: 8px;
+    border: none;
+    border-radius: 8px;
+    background-color: rgb(255, 216, 20);
+    cursor: pointer;
+}
+.addCart:active
+{
+    opacity: 0.7;
+}
+.buyNow
+{
+    padding: 8px;
+    border: none;
+    border-radius: 8px;
+    background-color: rgb(255, 164, 28);
+    cursor: pointer;
+}
+.buyNow:active
+{
+    opacity: 0.7;
+}
+.uber
+{
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 100px;
+    cursor: pointer;
+}
+.uber:hover
+{
+    opacity: 0.8;
+}
+.uber:active
+{
+    opacity: 0.2;
+}
+.amazon
+{
+    background-color: rgb(245, 193, 23);
+    color: black;
+    font-weight: bold;
+    height: 40px;
+    width: 130px;
+    cursor: pointer;
+    border: none;
+    border-radius: 20px;
+
+}
+.amazon:hover
+{
+    background-color: rgb(202, 155, 0);
+}
+.amazon:active
+{
+    opacity: 0.9;
+}
+.github
+{
+    background-color: rgb(30, 189, 15);
+    color: white;
+    font-weight: bold;
+    height: 40px;
+    width: 130px;
+    cursor: pointer;
+    border: none;
+    border-radius: 20px;
+    transition: box-shadow 0.5s;
+}
+.github:hover
+{
+    box-shadow: 1px 2px 6px black;
+}
+.github:active
+{
+    opacity: 0.9;
+}
+.bootstrap-getstarted
+{
+    background-color: rgb(164, 23, 245);
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    height: 40px;
+    width: 100px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+
+}
+.bootstrap-getstarted:hover
+{
+    background-color:  rgb(122, 2, 192);
+}
+.bootstrap-getstarted:active
+{
+    opacity: 0.9;
+}
+.bootstrap-download
+{
+    background-color: rgb(255, 255, 255);
+    color: rgb(153, 153, 153);
+    font-weight: bold;
+    height: 40px;
+    width: 100px;
+    cursor: pointer;
+    border-width: 1px;
+    border-color: rgb(153, 153, 153);
+    border-radius: 5px;
+
+}
+.bootstrap-download:hover
+{
+    background-color:  rgb(153, 153, 153);
+    color: white;
+}
+.bootstrap-download:active
+{
+    opacity: 0.9;
+}
+.linkedin-apply
+{
+    background-color: rgb(55, 68, 243);
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    height: 30px;
+    width: 200px;
+    cursor: pointer;
+    border-width: 1px;
+    border-color: rgb(153, 153, 153);
+    border-radius: 20px;
+
+}
+.linkedin-apply:hover
+{
+    background-color:  rgb(29, 41, 209);
+}
+.linkedin-apply:active
+{
+    opacity: 0.9;
+}
+.linkedin-save
+{
+    background-color: rgb(255, 255, 255);
+    color: rgb(55, 68, 243);
+    font-weight: bold;
+    height: 30px;
+    width: 70px;
+    cursor: pointer;
+    border-width: 1px;
+    border-color: rgb(55, 68, 243);
+    border-radius: 20px;
+
+}
+.linkedin-save:hover
+{
+    background-color:  rgb(55, 68, 243);
+    color: white;
+}
+.linkedin-save:active
+{
+    opacity: 0.9;
+}
