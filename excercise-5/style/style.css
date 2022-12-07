@@ -1,0 +1,162 @@
+.tahoma
+{
+    font-family: tahoma;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.arial
+{
+    font-family: arial;
+}
+.arial-title
+{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.arial-sales
+{
+    margin-top: 0;
+    font-style: italic;
+    color: red;
+    font-size: 15px;
+}
+.verdana
+{
+    font-family: verdana;
+    width: 350px;
+}
+.verdana-title
+{
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 5px;
+}
+.verdana-detail
+{
+    margin-top: 0;
+    color: grey;
+    font-size: 15px;
+}
+.verdana-btn
+{
+    border: none;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    color: white;
+    background-color: rgb(30, 163, 30);
+    cursor: pointer;
+}
+.verdana-btn:active
+{
+    opacity: 0.9;
+}
+.shop
+{
+    width: 500px;
+    font-family: arial;
+    text-align: center;
+}
+.shop-title
+{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.shop-detail
+{
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 0;
+}
+.shop-link
+{
+    color: rgb(87, 87, 231);
+    cursor: pointer;
+}
+.shop-link:hover
+{
+    text-decoration: underline;
+}
+.apple
+{
+    font-family: arial;
+    text-align: center;
+    width: 600px;
+    display: inline-block;
+}
+#new
+{
+    color: red;
+    margin-top: 30px;
+    margin-bottom: 5px;
+    font-weight: 600;
+}
+#macbook
+{
+    font-size: 25px;
+    margin-top: 0;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+#promo
+{
+    margin-top: 0;
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+#price
+{
+    font-size: 20px;
+    margin-bottom: 5px;
+    margin-top: 0;
+}
+#buy
+{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(66, 66, 255);
+    color: white;
+    cursor: pointer;
+}
+.usd
+{
+    width: 500px;
+    font-family: arial;
+    text-align: center;
+}
+.amount
+{
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+.currency
+{
+    font-size: 15px;
+    font-weight: 400;
+}
+.change
+{
+    margin-top: 0;
+    color: green;
+}
+.time
+{
+    font-size: 15px;
+    font-weight: 500;
+    color: grey;
+}
+.down
+{
+    color: red;
+}
